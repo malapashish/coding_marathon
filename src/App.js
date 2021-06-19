@@ -7,9 +7,7 @@ console.log(productData);
 
 const App = () => {
     const [ productList , setProductList ] = useState(productData.Product);
-    const [ buttonActive , setButtonActive ] = useState();  
-    const [ size , setSize ] = useState("");
-    const [ sort , setSort ] = useState("");
+    const [ buttonActive , setButtonActive ] = useState();   
  
 
     const filterByPrice = (e) => {
@@ -28,7 +26,11 @@ const App = () => {
             setProductList( productList.filter(
             (product) => product.Size.indexOf(e.target.value) >= 0
         ))  
-        } 
+        }else{
+            setProductList( productData.filter((
+            (product) => product.Size.indexOf(e.target.value) >= 0
+            )) )
+        }
     }
 
 
