@@ -1,0 +1,61 @@
+{
+    "Product" : [
+        {
+    
+        "Name" : "Solid Men Raincoat",
+        "Price" : 349,
+        "Size" : ["S" , "M" , "L" , "XL"],
+        "Brand" : "jim-dandy",
+        "For" : ["M" , "F"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/kmmcrrk0/raincoat/c/d/d/l-r1-jim-dandy-original-imagfgn43spas9sc.jpeg?q=50"
+    },
+    {
+        "Name" : "Printed Men Round Neck T-shirt",
+        "Price" : 929,
+        "Size" : ["S" , "M" , "L" , "XL" , "XXL"],
+        "Brand" : "NIKE",
+        "For" : ["M"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/k65d18w0/t-shirt/9/u/5/m-ar5005-010-nike-original-imafzhfkzshakbhg.jpeg?q=50"
+    },
+    {
+        "Name" : "Solid Men Blue Sports Shorts",
+        "Price" : 1151,
+        "Size" : ["S" , "M" , "L" , "XL" , "XXL"],
+        "Brand" : "NIKE",
+        "For" : ["M"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/knknc7k0/short/1/1/x/m-ck0451-480-nike-original-imag27ayj88wb9jj.jpeg?q=50"
+    },
+    {
+        "Name" : "Soild Men Dark Blue Shorys",
+        "Price" : 1049,
+        "Size" : ["S" , "M" , "L" , "XL" , "XXL"],
+        "Brand" : "ADIDAS",
+        "For" : ["M" , "F"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/kgiaykw0/short/c/m/a/m-gd9899-adidas-original-imafwpjrhjggjxbg.jpeg?q=50"
+    },
+    {
+        "Name" : "Stripped Read Hooded Neck",
+        "Price" : 233,
+        "Size" : ["S" , "M" , "L" , "XL"],
+        "Brand" : "HELMONT",
+        "For" : ["M" , "F"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50"
+    },
+    {
+        "Name" : "Men Vest",
+        "Price" : 224,
+        "Size" : ["S" , "M" , "L"],
+        "Brand" : "JUGULAR",
+        "For" : ["M"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/jvy4vbk0/vest/y/3/n/xxl-1pvest97-og-jugular-original-imafgf4wqzeqrsra.jpeg?q=50"
+    },
+    {
+        "Name" : "Graphic Printed T-shirt",
+        "Price" : 1050,
+        "Size" : ["XL"],
+        "Brand" : "ADIDAS",
+        "For" : ["M"],
+        "Image" : "https://rukminim1.flixcart.com/image/580/696/k070zgw0/t-shirt/3/m/j/m-ec7364-adidas-originals-original-imafkfc4txgxsskf.jpeg?q=50"
+    }
+    ]
+}
